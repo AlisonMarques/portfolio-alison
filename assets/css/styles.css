@@ -301,6 +301,14 @@ section .header {
   width: 40%;
 }
 
+.card-img-crud {
+  display: block;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 .page-footer {
   margin-top: 2em;
   background: linear-gradient(to bottom, #202020, #111119);
