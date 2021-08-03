@@ -203,7 +203,7 @@ section .header {
 }
 
 .section {
-  padding: 70px 0;
+  padding: 20px 0;
   position: relative;
   padding-right: 15px;
   padding-left: 15px;
